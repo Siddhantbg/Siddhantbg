@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhant Bhagat
 
-<!--
-**Siddhantbg/Siddhantbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergraduate** at Vellore Institute of Technology (2022–2026)  
+💼 **Project Intern** at Samsung PRISM | **Project Manager** at KrizPay  
+🔬 Passionate about **AI/ML** and **Full-Stack Development**
 
-Here are some ideas to get you started:
+Know More About Me in 3D: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects & Publications
+
+- **Post-Training Quantization for Deep Learning Models**  
+  *Published at SoCTA 2024*  
+  Optimized deep learning models using nature-inspired algorithms (FA, CS, BA) for resource-constrained environments.
+  
+# 🧠 Post-Training Quantization for Deep Learning Models
+
+- **Post-Training Quantization for Deep Learning Models**  
+  *Published at SoCTA 2024*  
+  Optimized CNNs for resource-constrained environments using post-training quantization, enhanced with nature-inspired algorithms like Firefly Algorithm (FA), Cuckoo Search (CS), and Bat Algorithm (BA) to maintain high accuracy while reducing model size and inference latency.
+
+---
+
+## 🏆 Achievements
+
+- **Hackwars Innovation - Jan’25**  
+  Winner – Best Sustainability Project for *TrustMark*, a system tagging crypto users based on activity profiles.
+
+- **EricssonEdge Academia - Nov’24**  
+  Secured a spot among the top 500 candidates globally in the EricssonEdge program.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: siddhant.bhagat004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-bhagat-90a061267/)
+- 💻 [Portfolio](https://siddhant-portfolio-chi.vercel.app/)
+- 🧠 [LeetCode](https://leetcode.com/u/Siddhantbt/)
+
+---
+
+## 📊 GitHub Stats
+
+![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhantbg&show_icons=true&theme=radical)
+
+---
+
+*“Striving to bridge the gap between innovative technology and real-world applications.”*
