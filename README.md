@@ -32,16 +32,10 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: siddhant.bhagat004@gmail.com
+- 📧 Email: siddhantbg005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-bhagat-90a061267/)
 - 💻 [Portfolio](https://siddhant-portfolio-chi.vercel.app/)
 - 🧠 [LeetCode](https://leetcode.com/u/Siddhantbt/)
-
----
-
-## 📊 GitHub Stats
-
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhantbg&show_icons=true&theme=radical)
 
 ---
 
