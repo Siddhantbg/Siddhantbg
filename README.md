@@ -4,8 +4,6 @@
 💼 **Project Intern** at Samsung PRISM | **Project Manager** at KrizPay  
 🔬 Passionate about **AI/ML** and **Full-Stack Development**
 
-Know More About Me in 3D: 
-
 ---
 
 ## 🚀 Projects & Publications
