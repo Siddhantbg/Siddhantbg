@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Siddhant Bhagat
 
 🎓 **Computer Science Undergraduate** at Vellore Institute of Technology (2022–2026)  
-💼 **Project Intern** at Samsung PRISM | **Project Manager** at KrizPay  
+💼 **Project Intern** at Samsung PRISM 
 
 ---
 
