@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddhant Bhagat
+# 👋 Hi, I'm Siddhant
 
 🎓 **Computer Science Undergraduate** at Vellore Institute of Technology (2022–2026)  
 💼 **Project Intern** at Samsung PRISM 
