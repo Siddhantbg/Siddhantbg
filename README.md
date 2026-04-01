@@ -19,7 +19,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-bhagat-90a061267/)
 - 💻 [Portfolio](https://siddhant-portfolio-chi.vercel.app/)
-- 🧠 [LeetCode](https://leetcode.com/u/Siddhantbt/)
 
 ---
 
