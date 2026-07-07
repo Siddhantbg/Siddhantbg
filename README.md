@@ -1,18 +1,5 @@
 # 👋 Hi, I'm Siddhant
 
-🎓 **Computer Science Undergraduate** at Vellore Institute of Technology (2022–2026)  
-💼 **Project Intern** at Samsung PRISM 
-
----
-
-## 🏆 Achievements
-
-- **Hackwars Innovation - Jan’25**  
-  Winner – Best Sustainability Project for *TrustMark*, a system tagging crypto users based on activity profiles.
-
-- **EricssonEdge Academia - Nov’24**  
-  Secured a spot among the top 500 candidates globally in the EricssonEdge program.
-
 ---
 
 ## 📫 Let's Connect
